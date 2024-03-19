@@ -25,7 +25,7 @@ paragrafo.innerHTML = "escolha um número de 1 há 10";
 let lista_numero_sorteados = [];
 
 //variavel para numero limite do jogo e lista
-let numero_limite = 100;
+let numero_limite = 10;
 
 //criando variavel do numero secreto
 let numero_secreto = gerar_numero_aleatorio();
